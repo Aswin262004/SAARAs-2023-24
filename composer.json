@@ -1,0 +1,11 @@
+{
+    "name": "hp/houses",
+    "autoload": {
+        "psr-4": {
+            "Hp\\Houses\\": "src/"
+        }
+    },
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.29"
+    }
+}
